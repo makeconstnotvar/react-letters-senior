@@ -1,15 +1,14 @@
 {
   "name": "react-letters-senior",
   "version": "3.0.0",
-  "description": "Задача для собеседований на ReactJS на уровень senior",
+  "description": "Задача для ReactJS собеседований на уровень senior",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "keywords": [],
-  "author": "alexkot",
-  "devDependencies": {
+  "author": "makeconstnotvar@gmail.com",
+  "dependencies": {
     "@vitejs/plugin-react": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
